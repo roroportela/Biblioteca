@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="products_title">Livros</string>
+    <string name="title_activity_fragment_maps">Mapa</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idImagemLivro" type="id">Imagem</item>
+    <item name="map" type="id">mapa</item>
+    <item name="maps" type="id">mapa</item>
+</resources>
